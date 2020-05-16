@@ -2,5 +2,5 @@ Windows:
     Steam:
         "%APPDATA%\Pac-man CE2\<user-id>\AutoSave"
 
-Linux:
+Linux (Proton):
     "<steam-folder>/steamapps/compatdata/441380/pfx"

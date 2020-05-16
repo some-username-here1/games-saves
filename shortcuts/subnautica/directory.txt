@@ -5,5 +5,8 @@ Windows:
     Windows:
         "<path-to-game>\SNAppData\SavedGames"
 
+macOS:
+    "~/Library/Application Support/unity.Unknown Worlds.Subnautica/Subnautica"
+
 Linux (Proton):
     "<steam-folder>/steamapps/compatdata/264710/pfx"

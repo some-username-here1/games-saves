@@ -1,5 +1,12 @@
 Windows:
     "%USERPROFILE%\Documents\My Games\Borderlands 2" ("My Documents" instead of "Documents" on WinXP or Wine)
 
+macOS:
+    "~/Library/Application Support/Borderlands 2"
+
 Linux:
-    "~/.local/share/aspyr-media/borderlands 2"
+    Native:
+    	"~/.local/share/aspyr-media/borderlands 2"
+    
+    Proton:
+        "<steam-folder>/steamapps/compatdata/49250/pfx"

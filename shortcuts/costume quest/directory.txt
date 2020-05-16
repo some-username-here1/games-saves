@@ -1,0 +1,8 @@
+Windows:
+    "%Appdata%\Doublefine\CostumeQuest"
+
+macOS:
+    "~/Library/Application Support/doublefine/costumequest"
+
+Linux:
+    "~/.local/share/doublefine/costumequest"

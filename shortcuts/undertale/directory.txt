@@ -1,0 +1,16 @@
+Windows:
+    non-Steam:
+        "%LOCALAPPDATA%\UNDERTALE"
+    
+    Steam:
+        "<steam-folder>/userdata/<user-id>/391540/remote"
+
+OSX:
+    "~/Library/Application Support/com.tobyfox.undertale"
+
+Linux:
+    non-Steam:
+        "$HOME/.config/UNDERTALE_linux"
+    
+    Steam:
+        "$HOME/.config/UNDERTALE_linux_steamver"

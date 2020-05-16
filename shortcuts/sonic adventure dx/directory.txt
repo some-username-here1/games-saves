@@ -5,5 +5,5 @@ Windows:
     Steam - Modded with BetterSADX:
         "<path-to-game>\SAVEDATA"
 
-Linux:
+Linux (Proton):
     "<steam-folder>/steamapps/compatdata/71250/pfx"

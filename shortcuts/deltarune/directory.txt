@@ -1,0 +1,8 @@
+Windows:
+    "%LOCALAPPDATA%\DELTARUNE"
+
+macOS:
+    "~/Library/Application Support/com.tobyfox.deltarune"
+
+Linux:
+    N/A

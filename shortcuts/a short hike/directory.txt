@@ -1,5 +1,8 @@
 Windows:
     "%USERPROFILE%\Appdata\LocalLow\adamgryu\A Short Hike"
 
+macOS:
+    "~/Library/Application Support/com.adamgryu.AShortHike"
+
 Linux:
     "~/.config/unity3d/adamgryu/A Short Hike"

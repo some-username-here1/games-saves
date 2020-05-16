@@ -1,5 +1,5 @@
 Windows:
     "%USERPROFILE%\AppData\LocalLow\Ghost Town Games\Overcooked"
 
-Linux:
+Linux (Proton):
     "<steam-folder>/steamapps/compatdata/448510/pfx"

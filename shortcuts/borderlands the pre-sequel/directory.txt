@@ -1,5 +1,12 @@
 Windows:
     "%USERPROFILE%\Documents\My Games\Borderlands The Pre-Sequel" ("My Documents" instead of "Documents" on WinXP or Wine)
 
+macOS:
+    "~/Library/Application Support/Borderlands The Pre-Sequel"
+
 Linux:
-    "~/.local/share/aspyr-media/borderlands the pre-sequel"
+    Native:
+        "~/.local/share/aspyr-media/borderlands the pre-sequel"
+    
+    Proton:
+        "<steam-folder>/steamapps/compatdata/261640/pfx"
