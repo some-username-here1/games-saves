@@ -1,0 +1,6 @@
+Windows:
+    Steam:
+        "<steam-folder>/userdata/<user-id>/236450"
+
+Linux:
+    "<steam-folder>/steamapps/compatdata/236450/pfx"

@@ -1,0 +1,5 @@
+Windows:
+    "%USERPROFILE%\Documents\My Games\Borderlands 2" ("My Documents" instead of "Documents" on WinXP or Wine)
+
+Linux:
+    "~/.local/share/aspyr-media/borderlands 2"

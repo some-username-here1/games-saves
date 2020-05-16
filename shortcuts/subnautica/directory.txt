@@ -1,0 +1,9 @@
+Windows:
+    Epic Games:
+        "%USERPROFILE%\Appdata\LocalLow\Unknown Worlds\Subnautica"
+
+    Windows:
+        "<path-to-game>\SNAppData\SavedGames"
+
+Linux (Proton):
+    "<steam-folder>/steamapps/compatdata/264710/pfx"

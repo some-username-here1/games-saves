@@ -1,0 +1,5 @@
+Windows:
+    "%USERPROFILE%\Documents\My Games\Terraria" ("My Documents" instead of "Documents" on WinXP or Wine)
+
+Linux:
+    "~/.local/share/Terraria"

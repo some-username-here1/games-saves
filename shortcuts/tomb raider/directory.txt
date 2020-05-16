@@ -1,0 +1,9 @@
+Windows:
+    Steam:
+        "<steam-folder>/userdata/<user-id>/203160"
+
+OSX:
+    "~/Library/Application Support/Feral Interactive/Tomb Raider"
+
+Linux:
+    "~/.local/share/feral-interactive/Tomb Raider"

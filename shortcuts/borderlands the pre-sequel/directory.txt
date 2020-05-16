@@ -1,0 +1,5 @@
+Windows:
+    "%USERPROFILE%\Documents\My Games\Borderlands The Pre-Sequel" ("My Documents" instead of "Documents" on WinXP or Wine)
+
+Linux:
+    "~/.local/share/aspyr-media/borderlands the pre-sequel"

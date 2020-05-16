@@ -1,0 +1,5 @@
+Windows:
+    "%Appdata%\StardewValley"
+
+Linux:
+    "~/.config/StardewValley"
