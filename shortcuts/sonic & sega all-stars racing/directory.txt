@@ -1,0 +1,8 @@
+Windows:
+    Steam:
+        "<path-to-game>\settings.ini"
+        "<path-to-game>\ssr_save.bin"
+
+Linux:
+    Proton:
+        "<steam-folder>/steamapps/compatdata/34190/pfx"

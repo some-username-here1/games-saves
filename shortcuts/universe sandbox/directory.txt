@@ -1,0 +1,7 @@
+Windows:
+    "%LocalAppdata%\Universe Sandbox"
+    "%USERPROFILE%\Documents\Universe Sandbox"
+
+Linux:
+    Proton:
+        "<steam-folder>/steamapps/compatdata/72200/pfx/drive_c/<Windows>"

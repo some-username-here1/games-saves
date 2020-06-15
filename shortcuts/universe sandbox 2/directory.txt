@@ -1,0 +1,9 @@
+Windows:
+    "%USERPROFILE%\AppData\LocalLow\Giant Army\Universe Sandbox"
+
+Linux:
+    Native:
+        "~/.config/unity3d/Giant Army/Universe Sandbox ²"
+    Proton:
+        "<steam-folder>/userdata/<user-id>/230290"
+        "<steam-folder>/steamapps/compatdata/230290/pfx"

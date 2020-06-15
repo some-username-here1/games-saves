@@ -6,3 +6,6 @@ macOS:
 
 Linux:
     "~/.config/unity3d/adamgryu/A Short Hike"
+
+    Proton:
+        "<Steam-folder>/steamapps/compatdata/1055540/pfx"

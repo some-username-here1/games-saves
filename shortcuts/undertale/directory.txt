@@ -10,7 +10,10 @@ OSX:
 
 Linux:
     non-Steam:
-        "$HOME/.config/UNDERTALE_linux"
+        "~/.config/UNDERTALE_linux"
     
     Steam:
-        "$HOME/.config/UNDERTALE_linux_steamver"
+        "~/.config/UNDERTALE_linux_steamver"
+
+    Proton:
+        "<Steam-folder>/steamapps/compatdata/391540/pfx"

@@ -1,0 +1,12 @@
+Windows:
+    "<steam-folder>\userdata\<user-id>\22600\remote"
+    "<path-to-game>\Screenshots"
+    "<path-to-game>\local.cfg"
+
+Linux:
+    Native:
+        "~/.local/share/Team17/WormsReloaded"
+    Proton:
+        "<steam-folder>/userdata/<user-id>/22600/remote"
+        "<path-to-game>/Screenshots"
+        "<path-to-game>/local.cfg"

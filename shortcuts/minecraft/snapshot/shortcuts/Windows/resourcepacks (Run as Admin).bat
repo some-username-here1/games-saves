@@ -1,3 +1,5 @@
 @ECHO OFF
-mklink /d "%appdata%\.minecraft_snapshot\resourcepacks" "%UserProfile%\Nextcloud\Games Saves\Minecraft\Snapshot\resourcepacks"
+mkdir "%USERPROFILE%\Nextcloud\Games Saves\Minecraft\Snapshot\resourcepacks"
+mkdir "%appdata%\.minecraft_snapshot"
+mklink /d "%appdata%\.minecraft_snapshot\resourcepacks" "%USERPROFILE%\Nextcloud\Games Saves\Minecraft\Snapshot\resourcepacks"
 pause

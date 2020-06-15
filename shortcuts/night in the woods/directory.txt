@@ -1,0 +1,12 @@
+Windows:
+    "%USERPROFILE%\AppData\LocalLow\Infinite Fall\Night in the Woods"
+
+macOS:
+    "~/Library/Application Support/unity.Infinite Fall.Night in the Woods"
+
+Linux:
+    Native:
+        "~/.config/unity3d/Infinite Fall/Night in the Woods"
+
+    Proton:
+        "<Steam-folder>/steamapps/compatdata/481510/pfx"

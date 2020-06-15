@@ -1,5 +1,6 @@
 Windows:
     "%USERPROFILE%\Documents\My Games\Mushroom Wars" ("My Documents" instead of "Documents" on WinXP or Wine)
 
-Linux (Proton):
-    "<steam-folder>/steamapps/compatdata/431250/pfx"
+Linux:
+    Proton:
+        "<steam-folder>/steamapps/compatdata/431250/pfx"

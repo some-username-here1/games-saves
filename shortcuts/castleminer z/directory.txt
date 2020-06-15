@@ -1,0 +1,5 @@
+Windows:
+    "%LocalAppdata%\CastleMinerZ\<user-id>"
+
+Linux:
+    "<steam-folder>/steamapps/compatdata/253430/pfx"

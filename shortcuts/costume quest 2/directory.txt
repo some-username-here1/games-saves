@@ -1,0 +1,12 @@
+Windows:
+    "%Appdata%\Doublefine\CostumeQuest2"
+
+macOS:
+    "~/Library/Application Support/Doublefine/Costume Quest 2"
+
+Linux:
+    Native:
+        "~/.local/share/doublefine/Costume Quest 2"
+
+    Proton:
+        "<Steam-folder>/steamapps/compatdata/275180/pfx"

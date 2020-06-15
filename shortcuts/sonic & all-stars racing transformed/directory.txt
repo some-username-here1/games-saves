@@ -1,0 +1,7 @@
+Windows:
+    "%USERPROFILE%\Documents\SART" ("My Documents" instead of "Documents" on WinXP or Wine)
+    "<steam-folder>\userdata\<user-id>\212480\remote"
+
+Linux:
+    Proton:
+        "<steam-folder>/steamapps/compatdata/212480/pfx"

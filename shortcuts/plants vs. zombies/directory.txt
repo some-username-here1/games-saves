@@ -1,0 +1,10 @@
+Windows:
+    Steam:
+        "<steam-folder>/userdata/<user-id>/3590/remote"
+
+OSX:
+    "~/Library/Application Support/PopCap/PlantsVsZombiesMac/userdata/"
+
+Linux:
+    Proton:
+        "<steam-folder>/steamapps/compatdata/3590/pfx"

@@ -1,5 +1,6 @@
 Windows:
     "%USERPROFILE%\Documents\My Games\FalloutNV" ("My Documents" instead of "Documents" on WinXP or Wine)
 
-Linux (Proton):
-    "<steam-folder>/steamapps/compatdata/22380/pfx"
+Linux:
+    Proton:
+        "<steam-folder>/steamapps/compatdata/22380/pfx"

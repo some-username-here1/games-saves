@@ -5,4 +5,8 @@ macOS:
     "~/Library/Application Support/Terraria"
 
 Linux:
-    "~/.local/share/Terraria"
+    Native:
+        "~/.local/share/Terraria"
+
+    Proton:
+        "<Steam-folder>/steamapps/compatdata/105600/pfx"

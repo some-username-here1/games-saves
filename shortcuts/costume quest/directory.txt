@@ -5,4 +5,8 @@ macOS:
     "~/Library/Application Support/doublefine/costumequest"
 
 Linux:
-    "~/.local/share/doublefine/costumequest"
+    Native:
+        "~/.local/share/doublefine/costumequest"
+
+    Proton:
+        "<Steam-folder>/steamapps/compatdata/115100/pfx"

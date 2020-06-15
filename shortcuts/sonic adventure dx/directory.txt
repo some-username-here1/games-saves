@@ -1,9 +1,10 @@
 Windows:
-    Steam - Unmodded:
+    Steam (Vanilla):
         "%USERPROFILE%\Documents\SEGA\Sonic Adventure DX" ("My Documents" instead of "Documents" on WinXP or Wine)
 
-    Steam - Modded with BetterSADX:
+    Steam (Modded with BetterSADX):
         "<path-to-game>\SAVEDATA"
 
-Linux (Proton):
-    "<steam-folder>/steamapps/compatdata/71250/pfx"
+Linux:
+    Proton:
+        "<steam-folder>/steamapps/compatdata/71250/pfx"

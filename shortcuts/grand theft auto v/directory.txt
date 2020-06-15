@@ -1,0 +1,6 @@
+Windows:
+    "%USERPROFILE%\Documents\Rockstar Games\GTA V" ("My Documents" instead of "Documents" on WinXP or Wine)
+
+Linux:
+    Proton:
+        "<steam-folder>/steamapps/compatdata/271590/pfx"

@@ -1,0 +1,34 @@
+Windows:
+    Epic Games:
+        ""
+
+    Windows:
+        ""
+(if Steam version differs)
+    non-Steam:
+        ""
+
+    Steam:
+        ""
+
+macOS:
+    ""
+(if Steam version differs)
+    non-Steam:
+        ""
+
+    Steam:
+        ""
+
+Linux:
+    Native:
+        ""
+
+    Proton:
+        ""
+(if Steam version differs)
+    non-Steam:
+        ""
+
+    Steam:
+        ""

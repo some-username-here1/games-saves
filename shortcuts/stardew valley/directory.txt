@@ -5,4 +5,8 @@ macOS:
     "${HOME}/.config/StardewValley"
 
 Linux:
-    "~/.config/StardewValley"
+    Native:
+        "~/.config/StardewValley"
+
+    Proton:
+        "<steam-folder>/steamapps/compatdata/413150/pfx"

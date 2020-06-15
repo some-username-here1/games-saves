@@ -2,8 +2,12 @@ Windows:
     Steam:
         "<steam-folder>/userdata/<user-id>/203160"
 
-OSX:
+macOS:
     "~/Library/Application Support/Feral Interactive/Tomb Raider"
 
 Linux:
-    "~/.local/share/feral-interactive/Tomb Raider"
+    Native:
+        "~/.local/share/feral-interactive/Tomb Raider"
+
+    Proton:
+        "<steam-folder>/steamapps/compatdata/203160/pfx"

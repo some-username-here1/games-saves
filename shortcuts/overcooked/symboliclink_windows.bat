@@ -1,3 +1,7 @@
 @echo off
-mklink /d "%UserProfile%\AppData\LocalLow\Ghost Town Games\Overcooked" "%UserProfile%/Nextcloud/Games Saves/Overcooked"
+set location=%USERPROFILE%\AppData\LocalLow\Ghost Town Games
+set destination=%USERPROFILE%\Nextcloud\Games Saves\Overcooked
+for /f "tokens=1,2 delims=d" %%A in ("%location%") do if "%%B" neq "" (echo "%location%" exists, continuing...) else (mkdir "%location%")
+for /f "tokens=1,2 delims=d" %%A in ("%destination%") do if "%%B" neq "" (echo "%destination%" exists, continuing...) else (mkdir "%destination%")
+mklink /d "%location%\Overcooked" "%destination%"
 pause
