@@ -23,3 +23,6 @@ Games that are played via Proton in Linux:
    - Mushroom Wars
    - Subnautica
    - Worms Reloaded
+
+# Contribution
+If there's a video game of your own that you would have to add or a script that points to the wrong directory on Windows, Linux, or OSX, feel free to create an Issue or Pull Request! I appreciate every bit of help I can get.
